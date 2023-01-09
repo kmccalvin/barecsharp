@@ -1,0 +1,2 @@
+# barecsharp
+Barebones C# Project
